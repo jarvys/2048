@@ -7,4 +7,3 @@ WORKDIR /src
 
 EXPOSE 8000
 CMD anywhere -s
-
