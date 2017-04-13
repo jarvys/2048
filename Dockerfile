@@ -6,5 +6,5 @@ COPY . /src
 WORKDIR /src
 
 EXPOSE 8000
-CMD anywhere -s
+CMD anywhere -s -l
 
